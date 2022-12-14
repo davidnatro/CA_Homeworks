@@ -1,0 +1,2 @@
+Letters: 14
+Digits: 6

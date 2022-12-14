@@ -1,0 +1,408 @@
+В данном файле Вы можете ознакомиться с результатами
+тестирования программы, а так же временем ее выполнения
+на текущих данных.
+Входные данные находятсяв папке inputs, а выходные в папке outputs.
+Всего было воспроизведено 200 тестов. Все прошли успешно.
+
+Далее результаты от 1 и до 200 теста, а так же время его выполнения, по порядку:
+
+Elapsed: 493160 ns
+OK!
+Elapsed: 525957 ns
+OK!
+Elapsed: 473736 ns
+OK!
+Elapsed: 201672 ns
+OK!
+Elapsed: 475619 ns
+OK!
+Elapsed: 1028914 ns
+OK!
+Elapsed: 88411 ns
+OK!
+Elapsed: 616574 ns
+OK!
+Elapsed: 601693 ns
+OK!
+Elapsed: 421093 ns
+OK!
+Elapsed: 539387 ns
+OK!
+Elapsed: 558040 ns
+OK!
+Elapsed: 876275 ns
+OK!
+Elapsed: 1182550 ns
+OK!
+Elapsed: 1048646 ns
+OK!
+Elapsed: 380692 ns
+OK!
+Elapsed: 837233 ns
+OK!
+Elapsed: 687096 ns
+OK!
+Elapsed: 1276029 ns
+OK!
+Elapsed: 880303 ns
+OK!
+Elapsed: 844944 ns
+OK!
+Elapsed: 756312 ns
+OK!
+Elapsed: 910626 ns
+OK!
+Elapsed: 384578 ns
+OK!
+Elapsed: 207115 ns
+OK!
+Elapsed: 640133 ns
+OK!
+Elapsed: 1109232 ns
+OK!
+Elapsed: 98380 ns
+OK!
+Elapsed: 1016039 ns
+OK!
+Elapsed: 564076 ns
+OK!
+Elapsed: 185114 ns
+OK!
+Elapsed: 911841 ns
+OK!
+Elapsed: 59465 ns
+OK!
+Elapsed: 1039450 ns
+OK!
+Elapsed: 437960 ns
+OK!
+Elapsed: 1178778 ns
+OK!
+Elapsed: 696148 ns
+OK!
+Elapsed: 212916 ns
+OK!
+Elapsed: 256218 ns
+OK!
+Elapsed: 223584 ns
+OK!
+Elapsed: 275120 ns
+OK!
+Elapsed: 258023 ns
+OK!
+Elapsed: 708239 ns
+OK!
+Elapsed: 502414 ns
+OK!
+Elapsed: 451737 ns
+OK!
+Elapsed: 624045 ns
+OK!
+Elapsed: 331823 ns
+OK!
+Elapsed: 988456 ns
+OK!
+Elapsed: 1035303 ns
+OK!
+Elapsed: 528838 ns
+OK!
+Elapsed: 793962 ns
+OK!
+Elapsed: 323398 ns
+OK!
+Elapsed: 990159 ns
+OK!
+Elapsed: 748265 ns
+OK!
+Elapsed: 1026013 ns
+OK!
+Elapsed: 124262 ns
+OK!
+Elapsed: 1086553 ns
+OK!
+Elapsed: 722204 ns
+OK!
+Elapsed: 810367 ns
+OK!
+Elapsed: 1007651 ns
+OK!
+Elapsed: 750637 ns
+OK!
+Elapsed: 1232958 ns
+OK!
+Elapsed: 706485 ns
+OK!
+Elapsed: 846459 ns
+OK!
+Elapsed: 1316190 ns
+OK!
+Elapsed: 1283296 ns
+OK!
+Elapsed: 1123182 ns
+OK!
+Elapsed: 574129 ns
+OK!
+Elapsed: 782307 ns
+OK!
+Elapsed: 542124 ns
+OK!
+Elapsed: 446407 ns
+OK!
+Elapsed: 1268516 ns
+OK!
+Elapsed: 259740 ns
+OK!
+Elapsed: 65710 ns
+OK!
+Elapsed: 1200287 ns
+OK!
+Elapsed: 733173 ns
+OK!
+Elapsed: 1616547 ns
+OK!
+Elapsed: 829270 ns
+OK!
+Elapsed: 582659 ns
+OK!
+Elapsed: 1134757 ns
+OK!
+Elapsed: 1373075 ns
+OK!
+Elapsed: 686714 ns
+OK!
+Elapsed: 1245289 ns
+OK!
+Elapsed: 95228 ns
+OK!
+Elapsed: 1152883 ns
+OK!
+Elapsed: 1011414 ns
+OK!
+Elapsed: 1016472 ns
+OK!
+Elapsed: 325277 ns
+OK!
+Elapsed: 185343 ns
+OK!
+Elapsed: 1329340 ns
+OK!
+Elapsed: 683868 ns
+OK!
+Elapsed: 97690 ns
+OK!
+Elapsed: 449402 ns
+OK!
+Elapsed: 164417 ns
+OK!
+Elapsed: 661890 ns
+OK!
+Elapsed: 946177 ns
+OK!
+Elapsed: 496889 ns
+OK!
+Elapsed: 1056238 ns
+OK!
+Elapsed: 580727 ns
+OK!
+Elapsed: 858246 ns
+OK!
+Elapsed: 666676 ns
+OK!
+Elapsed: 1140579 ns
+OK!
+Elapsed: 53127 ns
+OK!
+Elapsed: 479102 ns
+OK!
+Elapsed: 632075 ns
+OK!
+Elapsed: 1206366 ns
+OK!
+Elapsed: 1141003 ns
+OK!
+Elapsed: 1155742 ns
+OK!
+Elapsed: 391577 ns
+OK!
+Elapsed: 207611 ns
+OK!
+Elapsed: 75816 ns
+OK!
+Elapsed: 276446 ns
+OK!
+Elapsed: 444835 ns
+OK!
+Elapsed: 416469 ns
+OK!
+Elapsed: 428743 ns
+OK!
+Elapsed: 533002 ns
+OK!
+Elapsed: 433322 ns
+OK!
+Elapsed: 945772 ns
+OK!
+Elapsed: 117811 ns
+OK!
+Elapsed: 1184589 ns
+OK!
+Elapsed: 934542 ns
+OK!
+Elapsed: 365710 ns
+OK!
+Elapsed: 450583 ns
+OK!
+Elapsed: 589557 ns
+OK!
+Elapsed: 78214 ns
+OK!
+Elapsed: 1148146 ns
+OK!
+Elapsed: 242017 ns
+OK!
+Elapsed: 811255 ns
+OK!
+Elapsed: 1133286 ns
+OK!
+Elapsed: 973518 ns
+OK!
+Elapsed: 816985 ns
+OK!
+Elapsed: 1198691 ns
+OK!
+Elapsed: 849230 ns
+OK!
+Elapsed: 235723 ns
+OK!
+Elapsed: 1171644 ns
+OK!
+Elapsed: 1116576 ns
+OK!
+Elapsed: 1385785 ns
+OK!
+Elapsed: 563264 ns
+OK!
+Elapsed: 801958 ns
+OK!
+Elapsed: 150751 ns
+OK!
+Elapsed: 357493 ns
+OK!
+Elapsed: 426066 ns
+OK!
+Elapsed: 1350175 ns
+OK!
+Elapsed: 928328 ns
+OK!
+Elapsed: 613316 ns
+OK!
+Elapsed: 837704 ns
+OK!
+Elapsed: 572347 ns
+OK!
+Elapsed: 801251 ns
+OK!
+Elapsed: 1170076 ns
+OK!
+Elapsed: 430823 ns
+OK!
+Elapsed: 522301 ns
+OK!
+Elapsed: 991285 ns
+OK!
+Elapsed: 1038242 ns
+OK!
+Elapsed: 1281903 ns
+OK!
+Elapsed: 470087 ns
+OK!
+Elapsed: 740156 ns
+OK!
+Elapsed: 1080042 ns
+OK!
+Elapsed: 72888 ns
+OK!
+Elapsed: 302368 ns
+OK!
+Elapsed: 282778 ns
+OK!
+Elapsed: 84342 ns
+OK!
+Elapsed: 335365 ns
+OK!
+Elapsed: 205474 ns
+OK!
+Elapsed: 837288 ns
+OK!
+Elapsed: 914438 ns
+OK!
+Elapsed: 829370 ns
+OK!
+Elapsed: 210987 ns
+OK!
+Elapsed: 356627 ns
+OK!
+Elapsed: 443208 ns
+OK!
+Elapsed: 598736 ns
+OK!
+Elapsed: 625819 ns
+OK!
+Elapsed: 551845 ns
+OK!
+Elapsed: 856976 ns
+OK!
+Elapsed: 501844 ns
+OK!
+Elapsed: 114568 ns
+OK!
+Elapsed: 810127 ns
+OK!
+Elapsed: 989074 ns
+OK!
+Elapsed: 1201273 ns
+OK!
+Elapsed: 1085262 ns
+OK!
+Elapsed: 707357 ns
+OK!
+Elapsed: 476330 ns
+OK!
+Elapsed: 843998 ns
+OK!
+Elapsed: 390089 ns
+OK!
+Elapsed: 855525 ns
+OK!
+Elapsed: 144121 ns
+OK!
+Elapsed: 867245 ns
+OK!
+Elapsed: 1132568 ns
+OK!
+Elapsed: 1147882 ns
+OK!
+Elapsed: 1265474 ns
+OK!
+Elapsed: 1097798 ns
+OK!
+Elapsed: 949244 ns
+OK!
+Elapsed: 951611 ns
+OK!
+Elapsed: 174946 ns
+OK!
+Elapsed: 1133398 ns
+OK!
+Elapsed: 233079 ns
+OK!
+Elapsed: 112086 ns
+OK!
+Elapsed: 824147 ns
+OK!
+Elapsed: 435033 ns
+OK!
+Elapsed: 590097 ns
+OK!
+Elapsed: 271458 ns
+OK!

@@ -1,0 +1,3 @@
+/Users/davidnatroshvili/CLionProjects/CSA_CPP/CSA_HW4/cmake-build-debug/CMakeFiles/CSA_HW4.dir
+/Users/davidnatroshvili/CLionProjects/CSA_CPP/CSA_HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidnatroshvili/CLionProjects/CSA_CPP/CSA_HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

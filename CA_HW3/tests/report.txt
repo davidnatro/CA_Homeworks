@@ -1,0 +1,408 @@
+В данном файле Вы можете ознакомиться с результатами
+тестирования программы, а так же временем ее выполнения
+на текущих данных.
+Входные данные находятсяв папке inputs, а выходные в папке outputs.
+Всего было воспроизведено 200 тестов. Все прошли успешно.
+
+Далее результаты от 1 и до 200 теста, а так же время его выполнения, по порядку:
+
+Elapsed: 8075 ns
+1)  OK!
+Elapsed: 6367 ns
+2)  OK!
+Elapsed: 9809 ns
+3)  OK!
+Elapsed: 7206 ns
+4)  OK!
+Elapsed: 9830 ns
+5)  OK!
+Elapsed: 10262 ns
+6)  OK!
+Elapsed: 11616 ns
+7)  OK!
+Elapsed: 7752 ns
+8)  OK!
+Elapsed: 12870 ns
+9)  OK!
+Elapsed: 8593 ns
+10)  OK!
+Elapsed: 8722 ns
+11)  OK!
+Elapsed: 8093 ns
+12)  OK!
+Elapsed: 7294 ns
+13)  OK!
+Elapsed: 7478 ns
+14)  OK!
+Elapsed: 10025 ns
+15)  OK!
+Elapsed: 8883 ns
+16)  OK!
+Elapsed: 8671 ns
+17)  OK!
+Elapsed: 6324 ns
+18)  OK!
+Elapsed: 7811 ns
+19)  OK!
+Elapsed: 8612 ns
+20)  OK!
+Elapsed: 8510 ns
+21)  OK!
+Elapsed: 7786 ns
+22)  OK!
+Elapsed: 8386 ns
+23)  OK!
+Elapsed: 7811 ns
+24)  OK!
+Elapsed: 7206 ns
+25)  OK!
+Elapsed: 7695 ns
+26)  OK!
+Elapsed: 7352 ns
+27)  OK!
+Elapsed: 7555 ns
+28)  OK!
+Elapsed: 12130 ns
+29)  OK!
+Elapsed: 6195 ns
+30)  OK!
+Elapsed: 7867 ns
+31)  OK!
+Elapsed: 10290 ns
+32)  OK!
+Elapsed: 10209 ns
+33)  OK!
+Elapsed: 8475 ns
+34)  OK!
+Elapsed: 10133 ns
+35)  OK!
+Elapsed: 7712 ns
+36)  OK!
+Elapsed: 7852 ns
+37)  OK!
+Elapsed: 5938 ns
+38)  OK!
+Elapsed: 7682 ns
+39)  OK!
+Elapsed: 12683 ns
+40)  OK!
+Elapsed: 6244 ns
+41)  OK!
+Elapsed: 7119 ns
+42)  OK!
+Elapsed: 9114 ns
+43)  OK!
+Elapsed: 9015 ns
+44)  OK!
+Elapsed: 11192 ns
+45)  OK!
+Elapsed: 8759 ns
+46)  OK!
+Elapsed: 7513 ns
+47)  OK!
+Elapsed: 8317 ns
+48)  OK!
+Elapsed: 10075 ns
+49)  OK!
+Elapsed: 10569 ns
+50)  OK!
+Elapsed: 11186 ns
+51)  OK!
+Elapsed: 8436 ns
+52)  OK!
+Elapsed: 11345 ns
+53)  OK!
+Elapsed: 6799 ns
+54)  OK!
+Elapsed: 7159 ns
+55)  OK!
+Elapsed: 10128 ns
+56)  OK!
+Elapsed: 11861 ns
+57)  OK!
+Elapsed: 12111 ns
+58)  OK!
+Elapsed: 9485 ns
+59)  OK!
+Elapsed: 9028 ns
+60)  OK!
+Elapsed: 8852 ns
+61)  OK!
+Elapsed: 6790 ns
+62)  OK!
+Elapsed: 7663 ns
+63)  OK!
+Elapsed: 7197 ns
+64)  OK!
+Elapsed: 6880 ns
+65)  OK!
+Elapsed: 7487 ns
+66)  OK!
+Elapsed: 11644 ns
+67)  OK!
+Elapsed: 6188 ns
+68)  OK!
+Elapsed: 10081 ns
+69)  OK!
+Elapsed: 11045 ns
+70)  OK!
+Elapsed: 9952 ns
+71)  OK!
+Elapsed: 7309 ns
+72)  OK!
+Elapsed: 6248 ns
+73)  OK!
+Elapsed: 8485 ns
+74)  OK!
+Elapsed: 9182 ns
+75)  OK!
+Elapsed: 8321 ns
+76)  OK!
+Elapsed: 6593 ns
+77)  OK!
+Elapsed: 10376 ns
+78)  OK!
+Elapsed: 9794 ns
+79)  OK!
+Elapsed: 7360 ns
+80)  OK!
+Elapsed: 10716 ns
+81)  OK!
+Elapsed: 7554 ns
+82)  OK!
+Elapsed: 13031 ns
+83)  OK!
+Elapsed: 7233 ns
+84)  OK!
+Elapsed: 7577 ns
+85)  OK!
+Elapsed: 6860 ns
+86)  OK!
+Elapsed: 8788 ns
+87)  OK!
+Elapsed: 6805 ns
+88)  OK!
+Elapsed: 6883 ns
+89)  OK!
+Elapsed: 6014 ns
+90)  OK!
+Elapsed: 7606 ns
+91)  OK!
+Elapsed: 8775 ns
+92)  OK!
+Elapsed: 7101 ns
+93)  OK!
+Elapsed: 10166 ns
+94)  OK!
+Elapsed: 8532 ns
+95)  OK!
+Elapsed: 9511 ns
+96)  OK!
+Elapsed: 7829 ns
+97)  OK!
+Elapsed: 7609 ns
+98)  OK!
+Elapsed: 11733 ns
+99)  OK!
+Elapsed: 10752 ns
+100)  OK!
+Elapsed: 11568 ns
+101)  OK!
+Elapsed: 9606 ns
+102)  OK!
+Elapsed: 12807 ns
+103)  OK!
+Elapsed: 9739 ns
+104)  OK!
+Elapsed: 8797 ns
+105)  OK!
+Elapsed: 12390 ns
+106)  OK!
+Elapsed: 9718 ns
+107)  OK!
+Elapsed: 10181 ns
+108)  OK!
+Elapsed: 10696 ns
+109)  OK!
+Elapsed: 11890 ns
+110)  OK!
+Elapsed: 12173 ns
+111)  OK!
+Elapsed: 12455 ns
+112)  OK!
+Elapsed: 7970 ns
+113)  OK!
+Elapsed: 6518 ns
+114)  OK!
+Elapsed: 9035 ns
+115)  OK!
+Elapsed: 7762 ns
+116)  OK!
+Elapsed: 15148 ns
+117)  OK!
+Elapsed: 9076 ns
+118)  OK!
+Elapsed: 9474 ns
+119)  OK!
+Elapsed: 9909 ns
+120)  OK!
+Elapsed: 12929 ns
+121)  OK!
+Elapsed: 36717 ns
+122)  OK!
+Elapsed: 7029 ns
+123)  OK!
+Elapsed: 9183 ns
+124)  OK!
+Elapsed: 5964 ns
+125)  OK!
+Elapsed: 8493 ns
+126)  OK!
+Elapsed: 10094 ns
+127)  OK!
+Elapsed: 9958 ns
+128)  OK!
+Elapsed: 8325 ns
+129)  OK!
+Elapsed: 7883 ns
+130)  OK!
+Elapsed: 7296 ns
+131)  OK!
+Elapsed: 11196 ns
+132)  OK!
+Elapsed: 7911 ns
+133)  OK!
+Elapsed: 8112 ns
+134)  OK!
+Elapsed: 8679 ns
+135)  OK!
+Elapsed: 9384 ns
+136)  OK!
+Elapsed: 12870 ns
+137)  OK!
+Elapsed: 9469 ns
+138)  OK!
+Elapsed: 10498 ns
+139)  OK!
+Elapsed: 10359 ns
+140)  OK!
+Elapsed: 8935 ns
+141)  OK!
+Elapsed: 8820 ns
+142)  OK!
+Elapsed: 10406 ns
+143)  OK!
+Elapsed: 9455 ns
+144)  OK!
+Elapsed: 9081 ns
+145)  OK!
+Elapsed: 9821 ns
+146)  OK!
+Elapsed: 9480 ns
+147)  OK!
+Elapsed: 9031 ns
+148)  OK!
+Elapsed: 10730 ns
+149)  OK!
+Elapsed: 9789 ns
+150)  OK!
+Elapsed: 10536 ns
+151)  OK!
+Elapsed: 9177 ns
+152)  OK!
+Elapsed: 13476 ns
+153)  OK!
+Elapsed: 11529 ns
+154)  OK!
+Elapsed: 9393 ns
+155)  OK!
+Elapsed: 11030 ns
+156)  OK!
+Elapsed: 11473 ns
+157)  OK!
+Elapsed: 11914 ns
+158)  OK!
+Elapsed: 8002 ns
+159)  OK!
+Elapsed: 10189 ns
+160)  OK!
+Elapsed: 8839 ns
+161)  OK!
+Elapsed: 7526 ns
+162)  OK!
+Elapsed: 9035 ns
+163)  OK!
+Elapsed: 12618 ns
+164)  OK!
+Elapsed: 9386 ns
+165)  OK!
+Elapsed: 8772 ns
+166)  OK!
+Elapsed: 7446 ns
+167)  OK!
+Elapsed: 11161 ns
+168)  OK!
+Elapsed: 9032 ns
+169)  OK!
+Elapsed: 9813 ns
+170)  OK!
+Elapsed: 9752 ns
+171)  OK!
+Elapsed: 9588 ns
+172)  OK!
+Elapsed: 9427 ns
+173)  OK!
+Elapsed: 9675 ns
+174)  OK!
+Elapsed: 7761 ns
+175)  OK!
+Elapsed: 10682 ns
+176)  OK!
+Elapsed: 8348 ns
+177)  OK!
+Elapsed: 10934 ns
+178)  OK!
+Elapsed: 9660 ns
+179)  OK!
+Elapsed: 13269 ns
+180)  OK!
+Elapsed: 9626 ns
+181)  OK!
+Elapsed: 7469 ns
+182)  OK!
+Elapsed: 12921 ns
+183)  OK!
+Elapsed: 11029 ns
+184)  OK!
+Elapsed: 10802 ns
+185)  OK!
+Elapsed: 11908 ns
+186)  OK!
+Elapsed: 7551 ns
+187)  OK!
+Elapsed: 11869 ns
+188)  OK!
+Elapsed: 7983 ns
+189)  OK!
+Elapsed: 9829 ns
+190)  OK!
+Elapsed: 8402 ns
+191)  OK!
+Elapsed: 8585 ns
+192)  OK!
+Elapsed: 10952 ns
+193)  OK!
+Elapsed: 7927 ns
+194)  OK!
+Elapsed: 7988 ns
+195)  OK!
+Elapsed: 9897 ns
+196)  OK!
+Elapsed: 10136 ns
+197)  OK!
+Elapsed: 35264 ns
+198)  OK!
+Elapsed: 7669 ns
+199)  OK!
+Elapsed: 7702 ns
+200)  OK!
